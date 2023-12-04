@@ -4,7 +4,7 @@ Awesome-LLM-Blog is a curated compilation of blogs dedicated to Large Language M
 
 ## OpenAI Researchers
 
-- [Lilian Weng](https://lilianweng.github.io/): leading a team on AI Safety at OpenAI.
+- [Lilian Weng 翁丽莲](https://lilianweng.github.io/): leading a team on AI Safety at OpenAI.
 - [Jason Wei](https://www.jasonwei.net/): popularized some key ideas in large language models: chain-of-thought prompting, instruction tuning, and emergent phenomena. 
 
 ## University Researchers
